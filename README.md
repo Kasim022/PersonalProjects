@@ -1,2 +1,3 @@
-# PersonalProjects
-Java projects
+Project #1 
+
+Multiple choice quiz using Java
